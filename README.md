@@ -52,7 +52,7 @@ There's only me here, but I'm glad you stopped by!
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?Shynderio=your-username&theme=radical)](
+[![trophy](https://github-trophies.vercel.app/?username=Shynderio&theme=radical)](
 
 <!--
 **Shynderio/Shynderio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
